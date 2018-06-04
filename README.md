@@ -1,4 +1,5 @@
 # lithos-xxl
+demo : https://github.com/Mrchenli/xxl-job
 lithos-xxl
 step1:
   XXL_JOB_QRTZ_TRIGGER_INFO 这个表的建表语句加一个: `annotation_identity` varchar(255) DEFAULT NULL COMMENT '注解任务注册的唯一标识', 
